@@ -1,0 +1,5 @@
+sector,stations,responding,no_valid_ack,max_valid_latency_minutes
+East,1,0,1,NONE
+North,2,1,1,12
+South,2,1,1,4
+West,2,1,1,30
